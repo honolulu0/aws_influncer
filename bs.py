@@ -1,0 +1,13 @@
+bs=[
+    "https://www.amazon.com/Best-Sellers-Appliances-Cooktops/zgbs/appliances/3741261/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Dishwashers/zgbs/appliances/3741271/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Freezers/zgbs/appliances/3741331/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Ice-Makers/zgbs/appliances/2399939011/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Range-Hoods/zgbs/appliances/3741441/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Ranges/zgbs/appliances/3741411/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Refrigerators/zgbs/appliances/3741361/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Wall-Ovens/zgbs/appliances/3741481/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Appliances-Warming-Drawers/zgbs/appliances/2399955011/ref=zg_bs_nav_appliances_1",
+    "https://www.amazon.com/Best-Sellers-Appliances-Washers-Dryers/zgbs/appliances/2383576011/ref=zg_bs_pg_2?_encoding=UTF8&pg=",
+    "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Wine-Cellars/zgbs/kitchen/3741521/ref=zg_bs_pg_2?_encoding=UTF8&pg="
+    ]
